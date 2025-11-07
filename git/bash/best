@@ -1,2 +1,2 @@
 #!/bin/bash
-exho "Best"
+echo "This School is so cool!"
